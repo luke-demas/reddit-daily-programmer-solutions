@@ -1,0 +1,8 @@
+Input log for challenge2_difficult.py:
+
+Lap 1 = 0:0:20
+Lap 2 = 0:1:3
+Lap 3 = 0:0:6
+Lap 4 = 0:1:15
+Time Lapsed = 0:2:44
+
